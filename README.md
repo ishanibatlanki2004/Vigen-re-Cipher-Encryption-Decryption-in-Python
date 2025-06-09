@@ -1,4 +1,4 @@
-# Vigen-re-Cipher-Encryption-Decryption-in-Python
+# Vigenere-Cipher-Encryption-Decryption-in-Python
 This repository contains a simple yet effective Python implementation of the Vigenère cipher, a classical encryption method that utilizes keyword-based shifting to encode and decode text. This cipher provides a layer of security beyond simple Caesar ciphers by integrating a customizable key to dynamically alter letter shifts throughout the message.
 FEATURES:
 1.Custom Key-Based Encryption: Encrypt and decrypt text using any user-defined key.
